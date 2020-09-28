@@ -1,0 +1,13 @@
+About our team members:
+
+Paul Yoo
+I'm a sophomore studying Applied Mathematics and Computer Science at the University of Washington. My interest is in discovering creative use cases and applications of new technologies such as virtual and augmented reality. VR/AR technology enables us to see a new perspective of the world that was never possible before. My goal is to take advantage of this new perspective to enrich the interaction with the real reality through the lens of mixed reality.
+	
+Peyton Mash
+I'm a senior majoring in Computer Engineering at the University of Washington. I'm interested in exploring how augmented reality can be used to create intuitive user interfaces. I'm also excited about the potential for augmented reality to improve the sense of control people have over their digital belongings by making them more "tangible".
+	
+Alan Feng
+I'm a senior majoring in Computer Science at the University of Washington. I am interested in the capability of AR devices to provide easy and approachable interactions between physical objects and virtual contents. I wish to create a product that bridges digital world and the real world.
+
+Tianqi Wang
+I'm double majoring in Computer Science and Economics at the University of Washington. I am truly amazed by how augmented reality can overcome some of the limitations that computer have, such as 3D experience and user interactions. I believe AR technology has huge potential that is yet to be discovered and developed. I hope to build something that is not only fun to use, but also practical.

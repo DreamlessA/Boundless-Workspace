@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: a549fc959dc1b364282aa6f3b1a1b43e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Chikorita
+    100004: Chikorita_LVine
+    100006: Chikorita_LVineNub
+    100008: Chikorita_RVine
+    100010: Chikorita_RVineNub
+    100012: EndHair5
+    100014: EndHead
+    100016: EndHips
+    100018: EndLFeeler10
+    100020: EndLFinger
+    100022: EndLFoot
+    100024: EndLHand
+    100026: EndLToe
+    100028: EndRFeeler10
+    100030: EndRFinger
+    100032: EndRFoot
+    100034: EndRHand
+    100036: EndRToe
+    100038: EndTail
+    100040: Hair1
+    100042: Hair2
+    100044: Hair3
+    100046: Hair4
+    100048: Hair5
+    100050: Head
+    100052: Hips
+    100054: LArm
+    100056: LFeeler01
+    100058: LFeeler02
+    100060: LFeeler03
+    100062: LFeeler04
+    100064: LFeeler05
+    100066: LFeeler06
+    100068: LFeeler07
+    100070: LFeeler08
+    100072: LFeeler09
+    100074: LFeeler10
+    100076: LFinger
+    100078: LFoot
+    100080: LHand
+    100082: LThigh
+    100084: LToe
+    100086: Neck
+    100088: Origin
+    100090: pm0152_00
+    100092: pm0152_00_BodySkin
+    100094: pm0152_00_IrisSkin
+    100096: pm0152_00_LeafSkin
+    100098: pm0152_00_LFeelerSkin
+    100100: pm0152_00_LVineSkin
+    100102: pm0152_00_RFeelerSkin
+    100104: pm0152_00_RVineSkin
+    100106: RArm
+    100108: RFeeler01
+    100110: RFeeler02
+    100112: RFeeler03
+    100114: RFeeler04
+    100116: RFeeler05
+    100118: RFeeler06
+    100120: RFeeler07
+    100122: RFeeler08
+    100124: RFeeler09
+    100126: RFeeler10
+    100128: RFinger
+    100130: RFoot
+    100132: RHand
+    100134: RThigh
+    100136: RToe
+    100138: Spine1
+    100140: Spine2
+    100142: Tail
+    100144: Waist
+    400000: //RootNode
+    400002: Chikorita
+    400004: Chikorita_LVine
+    400006: Chikorita_LVineNub
+    400008: Chikorita_RVine
+    400010: Chikorita_RVineNub
+    400012: EndHair5
+    400014: EndHead
+    400016: EndHips
+    400018: EndLFeeler10
+    400020: EndLFinger
+    400022: EndLFoot
+    400024: EndLHand
+    400026: EndLToe
+    400028: EndRFeeler10
+    400030: EndRFinger
+    400032: EndRFoot
+    400034: EndRHand
+    400036: EndRToe
+    400038: EndTail
+    400040: Hair1
+    400042: Hair2
+    400044: Hair3
+    400046: Hair4
+    400048: Hair5
+    400050: Head
+    400052: Hips
+    400054: LArm
+    400056: LFeeler01
+    400058: LFeeler02
+    400060: LFeeler03
+    400062: LFeeler04
+    400064: LFeeler05
+    400066: LFeeler06
+    400068: LFeeler07
+    400070: LFeeler08
+    400072: LFeeler09
+    400074: LFeeler10
+    400076: LFinger
+    400078: LFoot
+    400080: LHand
+    400082: LThigh
+    400084: LToe
+    400086: Neck
+    400088: Origin
+    400090: pm0152_00
+    400092: pm0152_00_BodySkin
+    400094: pm0152_00_IrisSkin
+    400096: pm0152_00_LeafSkin
+    400098: pm0152_00_LFeelerSkin
+    400100: pm0152_00_LVineSkin
+    400102: pm0152_00_RFeelerSkin
+    400104: pm0152_00_RVineSkin
+    400106: RArm
+    400108: RFeeler01
+    400110: RFeeler02
+    400112: RFeeler03
+    400114: RFeeler04
+    400116: RFeeler05
+    400118: RFeeler06
+    400120: RFeeler07
+    400122: RFeeler08
+    400124: RFeeler09
+    400126: RFeeler10
+    400128: RFinger
+    400130: RFoot
+    400132: RHand
+    400134: RThigh
+    400136: RToe
+    400138: Spine1
+    400140: Spine2
+    400142: Tail
+    400144: Waist
+    2100000: 'Material #35'
+    2100002: 'Material #36'
+    2100004: 'Material #37'
+    2100006: 'Material #38'
+    4300000: Chikorita
+    4300002: Chikorita_LVineNub
+    4300004: Chikorita_LVine
+    4300006: Chikorita_RVineNub
+    4300008: Chikorita_RVine
+    9500000: //RootNode
+    13700000: Chikorita
+    13700002: Chikorita_LVine
+    13700004: Chikorita_LVineNub
+    13700006: Chikorita_RVine
+    13700008: Chikorita_RVineNub
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: chikorita
+  assetBundleVariant: 

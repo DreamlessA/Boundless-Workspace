@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <style>
+      html {
+        height: 100%;
+      }
+
+      body {
+        font-family: 'Roboto', sans-serif;
+        height: 100%;
+        margin: 0;
+      }
+
+      #root {
+        height: 100%;
+      }
+
+      .menu {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+
+        display: inline-flex;
+        flex-wrap: nowrap;
+        font-size: 20px;
+      }
+
+      .menu > div {
+        background-color: lightgrey;
+        position: relative;
+        display: inline-block;
+        border: 2px solid #6a6a6a;
+        border-radius: 4px;
+        height: 140px;
+        width: 160px;
+
+        transition: transform 0.25s ease-in-out;
+      }
+
+      .menu > div:not(:last-child) {
+        margin-right: 10px;
+      }
+
+      .menu > div:hover {
+        transform: scale(1.05);
+      }
+
+      .menu > div > :first-child {
+        position: absolute;
+        top: 5px;
+        left: 0;
+        right: 0;
+        text-align: center;
+      }
+
+      .menu > div > :last-child {
+        position: absolute;
+        bottom: 5px;
+        left: 0;
+        right: 0;
+        text-align: center;
+        height: 100px;
+      }
+
+      .control {
+        top: 50%;
+        transform: translateY(-50%);
+        position: absolute;
+        left: 0;
+        right: 0;
+      }
+
+      .control.range {
+        padding: 0px 10px;
+      }
+
+      .control.range > :not(:last-child) {
+        margin-bottom: 10px;
+      }
+
+      /* progress bar */
+      .control.range > :first-child {
+        border: 2px solid black;
+        height: 12px;
+      }
+      .control.range > :first-child > :first-child {
+        height: 100%;
+        width: calc(100% * var(--control-range-fraction));
+        background-color: blue;
+        transition: width 0.25s ease-in-out;
+      }
+
+      /* reading */
+      .control.range > :last-child {
+        font-size: 24px;
+      }
+
+
+      .radio.control {
+        --radio-control-padding: 10;
+
+        margin: 0 10px;
+        height: 50px;
+        position: relative;
+      }
+
+      .radio.control > :first-child {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+
+        height: 100%;
+        display: inline-flex;
+
+        box-sizing: border-box;
+      }
+
+      .radio.control > :first-child > * {
+        display: inline-block;
+        border-top: 2px solid black;
+        border-bottom: 2px solid black;
+        /* width: 50px; */
+        height: 100%;
+        box-sizing: border-box;
+        overflow: hidden;
+        padding: calc(var(--radio-control-padding)*1px);
+
+        transition: color 0.25s ease-in-out;
+        transition: background-color 0.25s ease-in-out;
+      }
+
+      .radio.control > :first-child > * > img {
+        height: 100%;
+      }
+
+      .radio.control > :first-child > :hover {
+        background-color: black;
+        color: white;
+        cursor: pointer;
+      }
+
+      .radio.control > :first-child > :hover > img {
+        filter: invert(100%);
+      }
+
+      .radio.control > :first-child > :first-child {
+        border-left: 2px solid black;
+        border-top-left-radius: calc(var(--radio-control-padding)*1px);
+        border-bottom-left-radius: calc(var(--radio-control-padding)*1px);
+      }
+      .radio.control > :first-child > :not(:last-child) {
+        border-right: 2px solid black;
+      }
+
+      .radio.control > :first-child > :last-child {
+        border-right: 2px solid black;
+        border-top-right-radius: calc(var(--radio-control-padding)*1px);
+        border-bottom-right-radius: calc(var(--radio-control-padding)*1px);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="bundle.js"></script>
+  </body>
+</html>

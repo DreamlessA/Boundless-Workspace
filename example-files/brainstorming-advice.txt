@@ -1,0 +1,9 @@
+Brainstorming Advice
+
+While brainstorming, first define the problem you are trying to solve. Would people want to use it? Would it bring them joy and delight? Would it improve their lives? Would it be fun?
+
+Also think about each device category carefully, and what features it offers. e.g. Headsets are more immersive, but not as widely available. Phones are less immersive, but easy to use and almost everyone has one. It may also be possible to think of ideas that combine multiple devices. You could also imagine using extra hardware, sensors or instruments. We have the following devices available for use: Windows MR Headsets (VR), Asus Zenfone AR (Mobile AR), Magic Leap One (AR Headset) and Hololens (AR Headset)
+
+Here are some more questions to think about: Who is the intended audience? How would you know you are successful? What are current solutions or why isn’t this problem already solved? What does the VR/AR medium provide that is not possible/ or easy to do through other medium?
+
+Work in a team while brainstorming, document all ideas and iterate. Get lots of feedback from classmates/staff on the discussion board. And come up with a cool team name!
